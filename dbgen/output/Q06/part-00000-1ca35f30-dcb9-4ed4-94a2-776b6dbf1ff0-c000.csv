@@ -1,0 +1,2 @@
+sum((l_extendedprice * l_discount))
+4.928492117726304E9
